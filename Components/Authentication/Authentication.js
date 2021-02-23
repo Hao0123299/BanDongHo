@@ -109,6 +109,6 @@ export function Authentication() {
         fontFamily: "Avenir", 
         color: "#FFF",
         fontWeight: 400,
-      }
+      },
   });
   

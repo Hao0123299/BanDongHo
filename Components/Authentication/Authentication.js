@@ -18,7 +18,7 @@ export function Authentication() {
         );
         const singUpJSX = (
           <View>
-              <TextInput style={inputStyle} placeholder="Enter your name " />
+              <TextInput style={inputStyle} placeholder="Enter your name " />s
               <TextInput style={inputStyle} placeholder="Enter your email " />
               <TextInput style={inputStyle} placeholder="Enter your password " />
               <TextInput style={inputStyle} placeholder="Re- enter your password " />
@@ -111,3 +111,4 @@ export function Authentication() {
         fontWeight: 400,
       }
   });
+  

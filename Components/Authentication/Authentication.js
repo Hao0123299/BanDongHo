@@ -50,6 +50,7 @@ export function Authentication() {
           </View>
         );
       }
+      
   
   const styles = StyleSheet.create({
       container: {
